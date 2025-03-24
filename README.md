@@ -13,12 +13,6 @@ Reference:
 
 https://www.linkedin.com/posts/alexwang2911_aiagents-robotics-technology-activity-7282829390445453314-QLeS
 
-### Our Teaching Approach
-
-We will be following this approach to teach Agentic AI Engineering:
-
-https://docs.google.com/document/d/1vgdGpda2YknjPRKnRi9qHgDbGX_kWSjct_V6Up3ed80/edit?usp=sharing 
-
 
 ### AI-201: Fundamentals of Agentic AI  -  From Foundations to Autonomous Agents
 
